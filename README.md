@@ -1,4 +1,4 @@
-# unix-system-programming
+# Unix System Programming
 UNX511 Code Samples
 
 ## Getting Started
