@@ -1,4 +1,4 @@
-# UNIX-System-Programming
+# unix-system-programming
 UNX511 Code Samples
 
 ## Getting Started
@@ -22,19 +22,22 @@ This repository contains UNIX system code samples.
 
 ### Instructions
 
-1. Clone this repository
-
+1. Clone this repository.
     ```sh
-    git clone https://github.com/fernandezmanuel/UNIX-System-Programming.git
-    cd UNIX-System-Programming
+    git clone https://github.com/fernandezmanuel/unix-system-programming.git
+    cd unix-system-programming
     ```
     
-2. Browse to any specific code sample directory
+2. Browse to any code sample directory.
+    ```sh
+    cd {subdir-name} 
+    ```
+    
+3. Compile and run using makefiles.
 
     ```sh
-    cd {directory-name}
+    make clean all
+    ./mainprog {optional-argument}
     ```
  
-
-
-
+ 
