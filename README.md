@@ -3,7 +3,7 @@ UNX511 Code Samples
 
 ## Getting Started
 
-This repository contains UNIX system code samples. 
+This repository contains UNIX system code samples implemented in C/C++.
 
 ### Contents
 
