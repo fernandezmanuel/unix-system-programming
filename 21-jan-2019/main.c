@@ -1,3 +1,12 @@
+// Title:  Memory Usage Monitoring 
+// Author: Manuel Fernandez
+// Date:   Jan 21, 2019
+// Run:    ./mainprog /proc
+//
+// Description: Scans and displays a report of running processes using 
+// more than 10Mbytes of resident memory.
+///////////////////////////////////////////////////////////////////////
+
 #include <sys/types.h>
 #include <dirent.h>
 #include <stdio.h>
@@ -10,7 +19,7 @@ int main(int argc, char *argv[]) {
     
     // Displays an error message if there are not enough input parameters
     if (argc != 2) {
-        fprintf(stderr,"Usage: %s dirname\n",argv[0]);
+        fprintf(stderr, "Usage: %s dirname\n", argv[0]);
         return(1);
     }
     
