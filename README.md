@@ -1,5 +1,5 @@
 # UNIX System Programming
-UNX511 Code Samples
+Workshop code samples
 
 ## Getting Started
 
@@ -39,5 +39,4 @@ This repository contains UNIX system code samples implemented in C/C++.
     make clean all
     ./mainprog {optional-argument}
     ```
- 
  
