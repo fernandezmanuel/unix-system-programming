@@ -40,3 +40,8 @@ This repository contains UNIX system code samples implemented in C/C++.
     ./mainprog {optional-argument}
     ```
  
+ ---
+ 
+ ### License
+
+[CC0](LICENSE.md) - Public Domain
