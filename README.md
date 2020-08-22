@@ -44,4 +44,4 @@ This repository contains UNIX system code samples implemented in C/C++.
  
  ### License
 
-[CC0](LICENSE.md) - Public Domain
+[GNU](LICENSE.md) - Public Domain
