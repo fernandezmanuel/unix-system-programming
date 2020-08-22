@@ -13,7 +13,6 @@
 #include "ctrlUtil.h"
 
 int main (int argc, char *argv[]) {
-    
 	int flag = 0;
 	int fd = open("/dev/cdrom", O_RDONLY | O_NONBLOCK);
 
@@ -55,7 +54,7 @@ int main (int argc, char *argv[]) {
 				break;
 			}
 			default: {
-                std::cout << "\nPlease introduce a valid option:" << std::endl;
+				std::cout << "\nPlease introduce a valid option:" << std::endl;
 			}
 		}
 	}
