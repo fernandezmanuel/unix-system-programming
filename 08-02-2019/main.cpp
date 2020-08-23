@@ -1,3 +1,13 @@
+
+// Title:  Ethernet Control Monitor
+// Author: Manuel Fernandez
+// Date:   Feb 08, 2019
+// Run:    ./mainprog ens33
+///////////////////////////////////////////////////////////////////////
+// Description: Displays ethernet information for a provided interface.
+// IP/MAC/Broadcast addresses are displayed along with Network mask.
+///////////////////////////////////////////////////////////////////////
+
 #include <iostream>
 #include <net/if.h>
 #include <net/if_arp.h>
