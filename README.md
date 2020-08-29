@@ -9,10 +9,8 @@ This repository contains UNIX system code samples implemented in C/C++.
 
 * Monitoring Memory Usage
 * I/O Control
-* Process Monitoring
-* Signals
-* Server & Client Communications
-* Pipes and Processes
+* System Device Manipulation
+* Socket Programming
 
 ### Operating System 
 
